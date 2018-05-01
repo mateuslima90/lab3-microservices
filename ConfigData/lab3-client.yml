@@ -1,5 +1,3 @@
 #lab3-client.yml
 ---
-spring:
-  profiles: south
 lucky-word: Irish
