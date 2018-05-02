@@ -1,3 +1,4 @@
 #lab3-client.yml
 ---
-lucky-word: Irish
+lucky-word:
+  - "Irish"
